@@ -23,7 +23,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 https://github.com/matchai/awesome-pinned-gists?tab=readme-ov-file
+
 https://github.com/kyechan99/capsule-render?tab=readme-ov-file#color
+
 https://capsule-render.vercel.app/
+
 https://markdownlivepreview.com/
+
 https://github.com/mazassumnida/mazassumnida
+
+https://zzetao.github.io/awesome-github-profile/
+
