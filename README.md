@@ -36,3 +36,4 @@ https://zzetao.github.io/awesome-github-profile/
 
 learngitbranching
 
+https://git-scm.com/book/en/v2
