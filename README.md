@@ -5,7 +5,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeahjinjeong&title_color=ff0000)](https://github.com/yeahjinjeong/github-readme-stats)
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=)](https://solved.ac)
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=yeahjin311)](https://solved.ac/yeahjin311)
 
 ### Hi there 👋
 
