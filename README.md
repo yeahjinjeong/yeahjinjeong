@@ -31,6 +31,7 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br><br><br>
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeahjinjeong&title_color=ff0000)](https://github.com/yeahjinjeong/github-readme-stats) 
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeahjin311)](https://solved.ac/yeahjin311/)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeahjinjeong&title_color=000000)](https://github.com/yeahjinjeong/github-readme-stats) 
   <br>
 </div>
